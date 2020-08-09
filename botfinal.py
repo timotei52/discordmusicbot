@@ -5,7 +5,8 @@ import youtube_dl
 import os
 from link import plstry
 from queue import Queue 
-TOKEN = 'Njk0MjUxODkzMzkxODg0MzQw.XsLm3A.I0o3uGsgOGSV57TdFs2alU-PsdA'
+//dw the api key from the initial commit is not aviable anymore don't bother
+TOKEN = ''
 client= commands.Bot(command_prefix="&")
 def youtube(url: str):
     ydl_opts = {
